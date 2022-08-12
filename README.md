@@ -1,6 +1,6 @@
 Dashboard Chrome extension
 
-check it live here:
+check it live here: https://michaljakubhoppe.github.io/Personal-Dashboard-for-Chrome/
 
 
 Each time you open up a new chrome tab in the browser, you will get:
